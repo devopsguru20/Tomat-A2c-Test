@@ -1,4 +1,4 @@
-<h1> Welcome to JENKINS </h1>
-<h2> Steup and deploy using jenkins </h2>
+<h1> Welcome to A2C </h1>
+<h2> Deployed by ATCI </h2>
 
 
